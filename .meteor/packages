@@ -8,3 +8,6 @@ insecure
 preserve-inputs
 iron-router
 spin
+bootstrap
+accounts-ui-bootstrap-dropdown
+accounts-password
