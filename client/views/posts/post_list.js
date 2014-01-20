@@ -12,7 +12,7 @@ var postsData = [
 {
   title: 'Rails Tutorial',
   author: 'Micheal hartl',
-  url: 'ruby.railstutorial.org'
+  url: 'http://ruby.railstutorial.org/'
 }
 ];
 
