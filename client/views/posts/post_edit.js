@@ -7,6 +7,8 @@ Template.postEdit.events({
   'submit form': function(e) {
     e.preventDefault();
     var currentPostId = Session.get('currentPostId');
+    console.log(currentPostId);
+    console.log("****************8")
     var postProperties = {
       url: $(e.target).find('[name=url]').val(),
       title: $(e.target).find('[name=title]').val()
