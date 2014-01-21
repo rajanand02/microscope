@@ -1,0 +1,46 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/home/raj/meteor_practice/microscope/packages/errors/package.js": "a3f381064c354e1f6751d19d032d761f23beaf63",
+        "/home/raj/meteor_practice/microscope/packages/errors/errors.js": "de1eaf24f27bcb2c94ceffd4c1ae2472a8a10840",
+        "/home/raj/meteor_practice/microscope/packages/errors/errors_list.html": "eced5ef90176e4306372fcc13262f3426223a961",
+        "/home/raj/meteor_practice/microscope/packages/errors/errors_list.js": "d524833d56241483e12f1c8f0b3d74fb7aa158b9"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/home/raj/meteor_practice/microscope/packages/errors/package.js": "a3f381064c354e1f6751d19d032d761f23beaf63"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/home/raj/meteor_practice/microscope/packages/errors/package.js": "a3f381064c354e1f6751d19d032d761f23beaf63"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/home/raj/meteor_practice/microscope/packages/errors/package.js": "a3f381064c354e1f6751d19d032d761f23beaf63"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/raj/meteor_practice/microscope/packages/errors/package.js": "a3f381064c354e1f6751d19d032d761f23beaf63"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "errors": "/home/raj/meteor_practice/microscope/packages/errors",
+    "meteor": "/home/raj/.meteor/packages/meteor/a23ceb0df4",
+    "minimongo": "/home/raj/.meteor/packages/minimongo/0f4887405a",
+    "mongo-livedata": "/home/raj/.meteor/packages/mongo-livedata/133ed3e7a3",
+    "templating": "/home/raj/.meteor/packages/templating/86600fc073"
+  },
+  "source": "/home/raj/meteor_practice/microscope/packages/errors"
+}
