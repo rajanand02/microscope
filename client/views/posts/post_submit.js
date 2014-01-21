@@ -11,8 +11,9 @@ Template.postSubmit.events({
 
     Meteor.call('post', post, function(error, id){
       if (error)
-        return alert(error.reason);
-
+        throwError(error.reason);
+        if (error.error === 302)
+          Router.go('postPage', { _id: error.details})
       Router.go('postPage', {_id: id});
     });
   }
